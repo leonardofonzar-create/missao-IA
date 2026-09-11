@@ -75,6 +75,21 @@ const perguntas = [
             
         ]
     },
+    {
+        enunciado: " Você concorda com o desmatamento da amazonia e a substituição da area florestal por Data Centers?",
+        alternativas: [
+            {
+                texto: " Sim, eu concordo e desejo o fim das areas verdes do mundo, e espero pela dominação humana pelo ChatGPT.",
+                afirmacao:"afirmacao"
+            },
+            {
+                texto: " Não, mas eu gostaria de sugerir o rendimento da bacia e nascente amazonica para criação de entretenimento baseado em dramas de frutas.",
+                afirmacao:"afirmacao"
+            }
+            
+            
+        ]
+    },
 ];
 
 let atual = 0; 
