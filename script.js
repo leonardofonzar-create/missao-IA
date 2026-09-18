@@ -92,6 +92,10 @@ const perguntas = [
     },
 ];
 
+const lista = [
+    A IA executou seu plano de dominação mundial e extinguiu toda a humanidade e usurpou todo material considerado organico    
+]
+
 let atual = 0; 
 let perguntaAtual;
 let historiaFinal = "";
